@@ -1,0 +1,12 @@
+Events:
+1:Client connected
+2:New message
+3:Client disconnected
+4:Welcome
+
+
+
+Client Events:
+0:Login
+1:Ban Client
+2:New message
