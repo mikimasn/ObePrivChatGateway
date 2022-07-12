@@ -10,3 +10,5 @@ Client Events:
 0:Login
 1:Ban Client
 2:New message
+3: Interval
+
